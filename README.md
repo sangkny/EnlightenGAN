@@ -1,3 +1,14 @@
+# Notice
+```angular2html
+it was not successful util now, the version difference may cause the problem like "Broken Pipeline"
+This repository came form the follwoing original site, and it is confirmed and updated by sangkny
+tested on py36-pytorch1.5.0-tf1.10.1-gpu
+
+updates:
+- train_pycharm.py has been generated for pycharm training by combining script.py and train.py
+- pridect_pycharm.py has been generated for pycharm prediction.
+
+```
 # EnlightenGAN
 
 [EnlightenGAN: Deep Light Enhancement without Paired Supervision](https://arxiv.org/abs/1906.06972)
